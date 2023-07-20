@@ -380,6 +380,9 @@ img {
     .game-container {
         margin-top: 150px;
     }
+    .game-card{
+        max-width: 40%;
+    }
 }
 
 /* for tablet device */

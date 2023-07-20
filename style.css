@@ -165,8 +165,7 @@ body {
 
 .float-content {
     position: absolute;
-    background-color: rgba(0, 0, 0, 0.7);
-    color: #fff;
+    /* background-color: rgba(0, 0, 0, 0.7); */
     transition: opacity 0.3s ease-in-out;
     font-size: 1.25rem;
     display: flex;
@@ -187,7 +186,7 @@ body {
 }
 
 
-.fa-solid{
+.funny-icon{
     font-size: 50px;
 }
 
@@ -197,7 +196,7 @@ body {
 
 .note-popup {
     background-color: #fff;
-    color: #000;
+    color: #000000;
     padding: 5px 10px;
     border-radius: 5px;
     font-size: 14px;

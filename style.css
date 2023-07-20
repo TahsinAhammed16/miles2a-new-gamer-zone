@@ -186,16 +186,12 @@ body {
     border-radius: 16px;
 }
 
+
+.fa-solid{
+    font-size: 50px;
+}
+
 .play-button {
-    width: 60px;
-    height: 60px;
-    border: 3px solid #fff;
-    border-radius: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 24px;
-    cursor: pointer;
     margin-bottom: 10px;
 }
 
@@ -423,3 +419,9 @@ img {
     }
 
 }
+
+
+.fa-solid fa-circle-play{
+    font-size: xx-large;
+}
+

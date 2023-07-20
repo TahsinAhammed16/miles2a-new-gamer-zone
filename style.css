@@ -337,6 +337,10 @@ img {
     margin-top: 20px;
 }
 
+.foot-icon{
+    margin: 0 5px;
+}
+
 /* responsive media queries starts here.. */
 /* for mobile device */
 @media screen and (max-width: 576px) {

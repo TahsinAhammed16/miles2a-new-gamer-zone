@@ -165,8 +165,8 @@ body {
 
 .float-content {
     position: absolute;
-    /* background-color: rgba(0, 0, 0, 0.7); */
-    transition: opacity 0.3s ease-in-out;
+    background-color: rgba(0, 0, 0, 0.7);
+    transition: opacity 0.2s ease-in-out;
     font-size: 1.25rem;
     display: flex;
     flex-direction: column;
@@ -420,5 +420,4 @@ img {
     .any-content {
         width: 70%;
     }
-
 }

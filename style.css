@@ -109,7 +109,7 @@ body {
 
 .banner-content {
     width: 50%;
-}  
+}
 
 .banner-img {
     width: 50%;
@@ -160,7 +160,7 @@ body {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 10px;
-    
+
 }
 
 .funny-card {
@@ -171,8 +171,8 @@ body {
     cursor: pointer;
 }
 
-.funny-card:hover{
-    border: 4px solid #FF42A5 ;
+.funny-card:hover {
+    border: 4px solid #FF42A5;
 }
 
 /* any section starts here.. */
@@ -231,6 +231,7 @@ body {
     border-radius: 50px;
     padding: 10px;
     cursor: pointer;
+    background-color: rgba(247, 236, 217, 0.808);
 }
 
 .game-card img {
@@ -338,6 +339,20 @@ body {
     .any-main-img {
         width: 75%;
     }
+
+    .any-content {
+        width: 80%;
+    }
+
+    .game-container {
+        margin-top: 150px;
+    }
+
+
+
+
+
+
 }
 
 /* for tablet device */

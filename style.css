@@ -186,7 +186,7 @@ body {
 }
 
 
-.funny-icon{
+.funny-icon {
     font-size: 50px;
 }
 
@@ -417,10 +417,8 @@ img {
         width: 70%;
     }
 
+    .any-content {
+        width: 70%;
+    }
+
 }
-
-
-.fa-solid fa-circle-play{
-    font-size: xx-large;
-}
-
